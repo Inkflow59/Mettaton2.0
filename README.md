@@ -24,8 +24,8 @@ The ***Mettaton v2.0*** project, through its entry on GitHub, is now protected b
 
 > The publication of a third-party application using the exact same code.
 
-> Commercial use to a person or company other than **HDMGame Studio** and its collaborators.
+> Commercial use to a person or company other than **InkGames** and its collaborators.
 
-> Modification of the code by someone outside **HDMGame Studio** without **written** authorisation.
+> Modification of the code by someone outside **InkGames** without **written** authorisation.
 
 Any violation of the license applied to the project will be **penalized**, until a **legal action**. So be sure to respect the conditions described above in order to avoid any legal problem. For more information about the Apache license, you can click [here](http://www.apache.org/licenses/).
